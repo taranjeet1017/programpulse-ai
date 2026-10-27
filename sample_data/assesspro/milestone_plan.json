@@ -1,0 +1,62 @@
+{
+  "project": "AssessPro Modernization & Feature Expansion",
+  "reporting_date": "2026-09-18",
+  "milestones": [
+    {
+      "id": "MS-001",
+      "title": "Proctoring certification",
+      "baseline": "2026-09-09",
+      "forecast": null,
+      "critical_path": true,
+      "completed": false
+    },
+    {
+      "id": "MS-002",
+      "title": "Scoring defect stabilization",
+      "baseline": "2026-09-18",
+      "forecast": "2026-09-25",
+      "critical_path": true,
+      "completed": false
+    },
+    {
+      "id": "MS-003",
+      "title": "Reporting development",
+      "baseline": "2026-09-30",
+      "forecast": "2026-10-07",
+      "critical_path": false,
+      "completed": false
+    },
+    {
+      "id": "MS-004",
+      "title": "Performance optimization",
+      "baseline": "2026-09-18",
+      "forecast": "2026-10-02",
+      "critical_path": true,
+      "completed": false
+    },
+    {
+      "id": "MS-005",
+      "title": "System testing completion",
+      "baseline": "2026-10-20",
+      "forecast": "2026-10-23",
+      "critical_path": true,
+      "completed": false
+    },
+    {
+      "id": "MS-006",
+      "title": "UAT start",
+      "baseline": "2026-10-26",
+      "forecast": "2026-10-26",
+      "critical_path": true,
+      "completed": false
+    },
+    {
+      "id": "MS-007",
+      "title": "Production release",
+      "baseline": "2026-11-30",
+      "forecast": "2026-11-30",
+      "critical_path": true,
+      "completed": false
+    }
+  ]
+}

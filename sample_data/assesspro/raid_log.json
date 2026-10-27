@@ -1,0 +1,79 @@
+{
+  "project": "AssessPro Modernization & Feature Expansion",
+  "reporting_date": "2026-09-18",
+  "items": [
+    {
+      "id": "DEP-001",
+      "kind": "dependency",
+      "title": "Proctoring certification",
+      "due_date": "2026-09-09",
+      "committed_resolution_date": null,
+      "critical": true,
+      "affects": [
+        "End-to-end testing",
+        "UAT readiness"
+      ],
+      "overdue_days_reported": 9,
+      "status": "OPEN",
+      "material": true,
+      "important": true,
+      "escalated": false,
+      "release_blocker": false
+    },
+    {
+      "id": "RISK-001",
+      "kind": "risk",
+      "title": "11 Severity-2 defects remain open; three scoring defects have reopened",
+      "status": "OPEN",
+      "material": true,
+      "important": true,
+      "escalated": false,
+      "release_blocker": false
+    },
+    {
+      "id": "SCOPE-001",
+      "kind": "scope",
+      "title": "Reporting requirements changed after development began; scope impact assessment overdue",
+      "due_date": "2026-09-16",
+      "impact_assessed": false,
+      "status": "OPEN",
+      "material": true,
+      "important": true,
+      "escalated": false,
+      "release_blocker": false
+    },
+    {
+      "id": "ACT-001",
+      "kind": "action",
+      "title": "Complete reporting scope impact assessment",
+      "due_date": "2026-09-16",
+      "status": "OPEN",
+      "material": true,
+      "important": true,
+      "escalated": false,
+      "release_blocker": false
+    },
+    {
+      "id": "ACT-002",
+      "kind": "action",
+      "title": "Start accessibility testing",
+      "due_date": "2026-09-17",
+      "status": "OPEN",
+      "material": true,
+      "important": true,
+      "escalated": false,
+      "release_blocker": false
+    },
+    {
+      "id": "ACT-003",
+      "kind": "action",
+      "title": "Provide performance environment",
+      "due_date": "2026-09-15",
+      "status": "OPEN",
+      "material": true,
+      "important": true,
+      "escalated": false,
+      "release_blocker": false
+    }
+  ]
+}

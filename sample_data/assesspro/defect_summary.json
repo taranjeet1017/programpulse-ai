@@ -1,0 +1,17 @@
+{
+  "project": "AssessPro Modernization & Feature Expansion",
+  "reporting_date": "2026-09-18",
+  "planned_tests": 1240,
+  "executed": 842,
+  "passed": 731,
+  "failed": 89,
+  "blocked": 22,
+  "test_execution_percent": 67.9,
+  "sev1_open": 0,
+  "sev2_open": 11,
+  "sev2_reopened": 3,
+  "scoring_sev2": 6,
+  "regression_testing": "NOT STARTED",
+  "accessibility_testing": "NOT STARTED",
+  "proctoring_e2e_validation": "BLOCKED"
+}

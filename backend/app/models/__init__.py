@@ -1,0 +1,1 @@
+"""Structured assessment response models."""
