@@ -1,6 +1,6 @@
 # ProgramPulse AI
 
-**Agentic Delivery & Governance Platform**
+**AI Delivery Assurance Platform**
 
 ProgramPulse AI is an AI Delivery Assurance layer that independently examines evidence across project systems, challenges reported project health, identifies governance failures, and recommends leadership intervention.
 
