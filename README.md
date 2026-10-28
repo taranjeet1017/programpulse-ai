@@ -31,6 +31,12 @@ Its output is a traceable basis for leadership review, beyond a summary of the P
 The AssessPro demonstration connects this disagreement to specific operational
 findings, management claims and recommended interventions.
 
+## What I Built
+
+I conceived and built ProgramPulse AI as a portfolio exploration of how AI can strengthen software-delivery governance. The work spans product definition, delivery-assurance rules, AI evidence extraction, evidence normalization, governance challenge logic, enterprise-document ingestion, API design, executive UX, testing, and responsible-AI controls.
+
+The product is informed by real delivery-governance patterns—status reporting, RAID management, critical-path dependencies, quality readiness, escalation, and leadership intervention—while all demonstration project data is synthetic.
+
 ## How It Works
 
 ```mermaid
