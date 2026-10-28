@@ -17,6 +17,10 @@ and compressed testing dates.
 ProgramPulse examines those sources independently and makes disagreements visible.
 Its output is a traceable basis for leadership review, beyond a summary of the PM's report.
 
+<img width="1378" height="586" alt="Screenshot 2026-10-28 at 9 30 32 PM" src="https://github.com/user-attachments/assets/56049a42-709b-4150-9894-06b8aec0e9ee" />
+<img width="1375" height="470" alt="Screenshot 2026-10-28 at 9 31 03 PM" src="https://github.com/user-attachments/assets/d0dcba5a-9856-4915-a267-3da731b1344a" />
+<img width="1380" height="710" alt="Screenshot 2026-10-28 at 9 32 10 PM" src="https://github.com/user-attachments/assets/bf75aab2-989f-45f2-8738-0fc8ac49f800" />
+
 ## Core Capability
 
 > **Reported Health: GREEN**  
